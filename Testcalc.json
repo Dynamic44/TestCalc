@@ -1,0 +1,23 @@
+[
+  {
+    "kind": "column",
+    "name": "Sum Two Numbers",
+    "description": "Calculates the sum of two numbers.",
+    "author": "Your Name <troy@thedynamicgroup.com.au>",
+    "params": [
+      {
+        "name": "number1",
+        "displayName": "First Number",
+        "type": "number"
+      },
+      {
+        "name": "number2",
+        "displayName": "Second Number",
+        "type": "number"
+      }
+    ],
+    "result": {
+      "type": "number"
+    }
+  }
+]
