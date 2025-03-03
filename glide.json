@@ -3,7 +3,7 @@
     "kind": "column",
     "name": "Sum Two Numbers",
     "description": "Calculates the sum of two numbers.",
-    "author": "Your Name <troy@thedynamicgroup.com.au>",
+    "author": "Troy Vassallo <troy@thedynamicgroup.com.au>",
     "params": [
       {
         "name": "number1",
